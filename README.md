@@ -1,5 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello, I'm Vaibhav Singh 👋,<br>
+About Me<br>
+CTO at Vivion JCurve with a passion for cybersecurity and software development. Currently pursuing my BEng in Software Engineering while building innovative solutions and exploring security vulnerabilities.
+What I'm Up To<br>
+🔭 I'm currently working on a fitness tracker application that combines health metrics with user-friendly interfaces
+🌱 I'm currently learning C programming to deepen my understanding of system architecture
+💻 Exploring the latest in penetration testing methodologies and network security analysis
 
 
 ## 🌐 Socials:
